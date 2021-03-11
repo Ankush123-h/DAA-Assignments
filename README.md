@@ -1,7 +1,7 @@
 # Assignment-4
 
 **Team Members**
-|   Enrollment No.  |   Name   | GithubId |
+|   Enrollment No.  |   Name   | Github Id |
 |   --------------  |   ----   | -------- |
 |    IIT2019072  |   ANKUSH SONKER | Ankush123-h |
 |    IIT2019002  |   ADITYA RATHI | mohan | 
