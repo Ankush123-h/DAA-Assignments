@@ -4,8 +4,8 @@
 |   Enrollment No.  |   Name   | Github Id |
 |   --------------  |   ----   | -------- |
 |    IIT2019072  |   ANKUSH SONKER | Ankush123-h |
-|    IIT2019002  |   ADITYA RATHI | mohan | 
-|    IIT2019003  |   SANIDHYA GUPTA | ram  |
+|    IIT2019073  |   ADITYA RATHI | severussanny | 
+|    IIT2019074  |   SANIDHYA GUPTA | Enigma20Geek  |
 
 **Group No-**24
 
