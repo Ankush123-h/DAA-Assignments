@@ -26,12 +26,27 @@ git clone https://github.com/Ankush123-h/DAA-Assignmnets
 ```
 Project Initialize 
 ```
-cd DAA-Assignments
-#create assignment-4 folder
-mkdir assignment_04
+To run the code, follow the following procedure:
+1.  Download the code(or project zip file) from the github repository.
+2.  Extract the zip file downloaded above.
 
-#go to assignment-4
-cd assignment_04
+Specifically when Running on Linux Terminal:
+
+4. Save the extracted file on desktop. Open terminal and follow:
+	cd desktop/DAA_Assignments
+	g++ Code.cpp
+	/* Provide Input and closest pair of points along with distance is displayed*/
+	
+				------OR------
+
+When Running on IDE or online Compilers
+
+4.  Open the code with any IDE like Sublime Text, VS Code, Atom or some online compilers like GDB.
+5.  If required, save the code with your own desirable name and extension is .cpp
+6.  Run the code following the proper running commands(vary from IDE to IDE)
+	(a)For VS Code:Press Function+F6 key and provide the input on the terminal.
+	(b)For Sublime Text:Click on the Run button and provide the input.
+	
 ```
 Output
 ```
