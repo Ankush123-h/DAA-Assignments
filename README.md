@@ -7,7 +7,7 @@
 |    IIT2019073  |   ADITYA RATHI | Enigma20Geek | 
 |    IIT2019074  |   SANIDHYA GUPTA | severussanny  |
 
-**Group No-**24
+**Group No-**"24"
 
 **Faculty Name-**"Dr Mohammad Javed"
 
@@ -92,7 +92,7 @@ The corresponding pair of points is {1 0} and {1 4}
 ---
 
 ### Theory
-Given  an  array  of  n  points  in  aplane.  The problem is to find out the closest pairof  points  in  an  array.   In  this  paper,  this  triv-ial  problem  of  finding  the  pair  of  closest  pointsin  the  given  2D  plane  has  been  solved  using  thetechniques  and  ideas  based  on  Divide  and  Con-quer  Programming  Paradigm.   Also,  this  paperdiscuss  the  distance  between  these  pair  of  clos-est  points  also.   Using  the  Divide  and  Conquerapproach,  the  algorithm  achieves  its  best  timecomplexity of O(nlogn),thus reducing the time toa  much  significant  extent.  Thus  the  approach  ofDivide and Conquer exhibits the logarithmic timeand speeds up the mechanism of finding the clos-est pair of points.
+Given  an  array  of  n  points  in  aplane.  The problem is to find out the closest pairof  points  in  an  array.   In  this  paper,  this  triv-ial  problem  of  finding  the  pair  of  closest  pointsin  the  given  2D  plane  has  been  solved  using  thetechniques  and  ideas  based  on  Divide  and  Con-quer  Programming  Paradigm.   Also,  this  paperdiscuss  the  distance  between  these  pair  of  closest  points  also.   Using  the  Divide  and  Conquerapproach,  the  algorithm  achieves  its  best  timecomplexity of O(nlogn),thus reducing the time toa  much  significant  extent.  Thus  the  approach  ofDivide and Conquer exhibits the logarithmic timeand speeds up the mechanism of finding the clos-est pair of points.
 
 ---
 
