@@ -54,7 +54,8 @@ Input:
 5 2
 
 Output:
-1.414120
+The smallest distance is 1.41421
+The corresponding pair of points is {0 0} and {1 1}
 
 #--------------------------#
 
@@ -69,7 +70,8 @@ Input:
 11 11
 
 Output:
-4.000000
+The smallest distance is 4
+The corresponding pair of points is {1 0} and {1 4}
 ```
 
 ---
