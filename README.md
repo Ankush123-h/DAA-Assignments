@@ -9,65 +9,67 @@
 
 **Group No-**"24"
 
-**Faculty Name-**"-----------------"
+**Faculty Name-**"Dr Mohammad Javed"
 
 **Mentor Name-** "Md. Meraz"
 
 ---
 ## Problem Statement
-Curve fitting using Least squares Approximation
+Given an array of n points. Find the closest pair of points.
 
 ---
 ## How to use code
-A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available. ... Lorem Ipsum is dummy text which has no meaning however looks very similar to real text.
+Please follow the following steps in order to use the code
 ```
 #Download project
-git clone https://github.com/merazlab/daa 
+git clone https://github.com/Ankush123-h/DAA-Assignmnets 
 ```
 Project Initialize 
 ```
-cd daa
-#create assignment-1 folder
-mkdir assignment_01
+cd DAA-Assignments
+#create assignment-4 folder
+mkdir assignment_04
 
-#go to assignment-1
-cd assignment_01
-
-#Create file
-touch readme.md
-touch main.py
-.
-.
-```
----
-
-Run the code
-```
-python main.py
+#go to assignment-4
+cd assignment_04
 ```
 Output
 ```
-Curve fitting using Least squares Approximation
+Distance between the closest pair of points among all the n given points.
 ```
 ---
 
 **Test case**
 
-Find max
 ```
 Test Case-1
+
 Input:
 6
-2 4 8 0 2 1
-Out:
-8
+0 0
+1 1
+4 0
+2 2
+3 3
+5 2
+
+Output:
+1.414120
+
 #--------------------------#
+
 Test Case-2
+
 Input:
-6
-2 4 8 0 2 1
-Out:
-8
+5
+1 4
+-24 -6
+1 0
+19 -8
+11 11
+
+Output:
+4.000000
 ```
 
 ---
