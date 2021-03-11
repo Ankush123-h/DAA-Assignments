@@ -50,7 +50,7 @@ When Running on IDE or online Compilers
 ```
 Output
 ```
-Distance between the closest pair of points among all the n given points.
+Distance between the closest pair of points and those points iteself among all the n given points.
 ```
 ---
 
